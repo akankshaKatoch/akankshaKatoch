@@ -2,6 +2,7 @@
 
 I am Akanksha Katoch, and I am pursuing my **Master's in Information Technology and Management**. 
 I am a seasoned **Software Developer** with experience in **Financial, Banking, Education and Healthcare Sector**.
+You can learn more about me on my [portfolio website](https://akankshakatoch.github.io/). 
 
 ## My Skills:
 * Java
