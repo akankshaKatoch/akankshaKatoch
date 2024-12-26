@@ -18,10 +18,10 @@ You can learn more about me on my [portfolio website](https://akankshakatoch.git
 
 ## 📫 How to reach me: 
 You can reach me on my [LinkedIn Profile](https://www.linkedin.com/in/akanksha-katoch/)
-
+<!--
 -## If you want to edit your read.md files for better project description follow this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-<!--
+
 **akankshaKatoch/akankshaKatoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
