@@ -1,22 +1,22 @@
 ## Hi there 👋
 
-I am Akanksha Katoch, and I am pursuing my **Mastes's in Information Technology and Management**. 
+I am Akanksha Katoch, and I am pursuing my **Master's in Information Technology and Management**. 
 I am a seasoned **Software Developer** with experience in **Financial, Banking, Education and Healthcare Sector**.
 
 ## My Skills:
 * Java
-⋅⋅* Python
-⋅⋅* Cloud Computing(AWS, AZURE)
-⋅⋅* Spring MVC, Hibernate Frameworks
-⋅⋅* Kafka, Flink
+* Python
+* Cloud Computing(AWS, AZURE)
+* Spring MVC, Hibernate Frameworks
+* Kafka, Flink
 
 ## Certification
-⋅⋅* AWS Solution Architect - Associate 
-⋅⋅* Azure Cloud Fundamentals
-⋅⋅* SSM Safe Agile 6
+* AWS Solution Architect - Associate 
+* Azure Cloud Fundamentals
+* SSM Safe Agile 6
 
 ## 📫 How to reach me: 
-You can reach me in my [LinkedIn Profile](https://www.linkedin.com/in/akanksha-katoch/)
+You can reach me on my [LinkedIn Profile](https://www.linkedin.com/in/akanksha-katoch/)
 
 -## If you want to edit your read.md files for better project description follow this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
