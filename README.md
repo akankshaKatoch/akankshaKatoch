@@ -21,7 +21,7 @@ You can learn more about me on my [portfolio website](https://akankshakatoch.git
 ## 📫 How to reach me: 
 You can reach me on my [LinkedIn Profile](https://www.linkedin.com/in/akanksha-katoch/)
 
-##⚡ Fun fact
+## ⚡ Fun fact
 I love to hike and try adventure sports(Even though am scared of heights). **What doesn't kill you makes you stronger!!**
 <!--
 -## If you want to edit your read.md files for better project description follow this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
