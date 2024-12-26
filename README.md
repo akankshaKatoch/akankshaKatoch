@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am Akanksha Katoch, pursuing my **Mastes's in Information Technology and Management**. 
+I am Akanksha Katoch, and I am pursuing my **Mastes's in Information Technology and Management**. 
 I am a seasoned **Software Developer** with experience in **Financial, Banking, Education and Healthcare Sector**.
 
 ## My Skills:
-⋅⋅* Java
+* Java
 ⋅⋅* Python
 ⋅⋅* Cloud Computing(AWS, AZURE)
 ⋅⋅* Spring MVC, Hibernate Frameworks
