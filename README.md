@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Akanksha Katoch
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=SOFTWARE+DEVELOPER)](https://git.io/typing-svg)
 
-I am Akanksha Katoch, and I am pursuing my **Master's in Information Technology and Management**. 
+I am pursuing my **Master's in Information Technology and Management**. 
 
 I am a seasoned **Software Developer** with experience in **Financial, Banking, Education and Healthcare Sector**.
 
@@ -31,7 +31,7 @@ I love to hike and try adventure sports(Even though am scared of heights). **Wha
 <!--
 -## If you want to edit your read.md files for better project description follow this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-
+(https://github-readme-stats.vercel.app/api?username=aiden200&theme=dark)
 **akankshaKatoch/akankshaKatoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
