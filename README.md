@@ -29,7 +29,7 @@ You can reach me on my [LinkedIn Profile](https://www.linkedin.com/in/akanksha-k
 ## ⚡ Fun fact
 I love to hike and try adventure sports(Even though am scared of heights). **What doesn't kill you makes you stronger!!**
 
-(https://github-readme-stats.vercel.app/api?username=akankshaKatoch&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=akankshaKatoch&theme=dark)
 <!--
 -## If you want to edit your read.md files for better project description follow this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
