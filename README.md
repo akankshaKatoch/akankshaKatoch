@@ -1,7 +1,6 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=I+am+Akanksha+Katoch+SOFTWARE+DEVELOPER)](https://git.io/typing-svg)
-<! --[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=AI%2FML+Engineer)](https://git.io/typing-svg)
--->
+
 I am Akanksha Katoch, and I am pursuing my **Master's in Information Technology and Management**. 
 
 I am a seasoned **Software Developer** with experience in **Financial, Banking, Education and Healthcare Sector**.
