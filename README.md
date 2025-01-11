@@ -13,6 +13,10 @@ You can learn more about me on my [portfolio website](https://akankshakatoch.git
 * Spring MVC, Hibernate Frameworks
 * Kafka, Flink
 
+## ⚡ Work Experince
+* RSA SECURITY 
+* ACCENTURE 
+
 ##  🌱 Certification
 * AWS Solution Architect - Associate 
 * Azure Cloud Fundamentals
