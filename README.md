@@ -15,11 +15,12 @@ You can learn more about me on my [portfolio website](https://akankshakatoch.git
 * Kafka, Flink
 
 ## ⚡ Work Experince
-* RSA SECURITY 
-* ACCENTURE 
+* RSA SECURITY - Senior Software Engineer
+* ACCENTURE - Software Developer
 
 ##  🌱 Certification
-* AWS Solution Architect - Associate 
+* AWS Solution Architect - Associate
+* AWS AI Practitioner
 * Azure Cloud Fundamentals
 * SSM Safe Agile 6
 
@@ -27,11 +28,14 @@ You can learn more about me on my [portfolio website](https://akankshakatoch.git
 You can reach me on my [LinkedIn Profile](https://www.linkedin.com/in/akanksha-katoch/)
 
 ## ⚡ Fun fact
-I love to hike and try adventure sports(Even though am scared of heights). **What doesn't kill you makes you stronger!!**
+I love to hike and try adventure sports(Even though I'm scared of heights). **What doesn't kill you makes you stronger!!**
+
+## 🔭 I’m currently working on
+building myself again.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=akankshaKatoch&theme=dark)
 <!--
--## If you want to edit your read.md files for better project description follow this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+-## If you want to edit your read.md files for better project description, follow this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 (https://github-readme-stats.vercel.app/api?username=aiden200&theme=dark)
 **akankshaKatoch/akankshaKatoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
