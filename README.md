@@ -1,9 +1,8 @@
 ## Hi there 👋, I'm Akanksha Katoch
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=SOFTWARE+DEVELOPER)](https://git.io/typing-svg)
 
-I am pursuing my **Master's in Information Technology and Management**. 
-
 I am a seasoned **Software Developer** with experience in **Financial, Banking, Education and Healthcare Sector**.
+I completed my **Master's in Information Technology and Management**. Yayii!! 
 
 You can learn more about me on my [portfolio website](https://akankshakatoch.github.io/). 
 
