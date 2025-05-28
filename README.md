@@ -29,8 +29,10 @@ You can reach me on my [LinkedIn Profile](https://www.linkedin.com/in/akanksha-k
 ## ⚡ Fun fact
 I love to hike and try adventure sports(Even though I'm scared of heights). **What doesn't kill you makes you stronger!!**
 
-## 🔭 I’m currently working on
-building myself again.
+## 🔭 I’m currently learning
+
+- Terraform (please recommend good projects)
+- Data Structure and System Design 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=akankshaKatoch&theme=dark)
 <!--
