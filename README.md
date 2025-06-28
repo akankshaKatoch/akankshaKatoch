@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm Akanksha Katoch
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=SOFTWARE+DEVELOPER)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Software+Developer;Cloud+Solutions+Engineer;Distributed+Systems+Engineer)](https://git.io/typing-svg)
 
 ## 👩‍💻 About Me
 I'm a **Software Engineer** with expertise in **cloud computing, distributed systems, and financial technologies**.  
