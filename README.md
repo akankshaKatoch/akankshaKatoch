@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=SOFTWARE+DEVELOPER)](https://git.io/typing-svg)
 
 ## 👩‍💻 About Me
-I'm a **Senior Software Engineer** with expertise in **cloud computing, distributed systems, and financial technologies**.  
+I'm a **Software Engineer** with expertise in **cloud computing, distributed systems, and financial technologies**.  
 🎓 Master's in Information Technology and Management | ☁️ Multi-Cloud Certified (AWS/Azure)  
 🚀 Passionate about building scalable systems and solving complex problems.
 
