@@ -34,7 +34,11 @@ I love to hike and try adventure sports(Even though I'm scared of heights). **Wh
 - Terraform (please recommend good projects)
 - Data Structure and System Design 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=akankshaKatoch&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akankshaKatoch&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshaKatoch&layout=compact&theme=dark&hide_border=true&langs_count=10" width="48%" /> 
+</p>
+
 <!--
 -## If you want to edit your read.md files for better project description, follow this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -50,5 +54,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
+
 - ⚡ Fun fact: ...
 -->
